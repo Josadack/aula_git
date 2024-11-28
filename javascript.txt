@@ -1,1 +1,2 @@
 aula inicial de JavaScript!
+Hello wolrd estou livre da maldição!
